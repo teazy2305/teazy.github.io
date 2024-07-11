@@ -1,2 +1,2 @@
-# teazyx.github.io
+# teazy.github.io
 nohand-coding.gg
